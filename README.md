@@ -1,1 +1,1 @@
-<img src="smart_bottle.jpg" alt="Smart Bottle" style="max-width: 400px; border-radius: 8px;">
+![image](https://github.com/user-attachments/assets/8785083f-9c9f-446c-938f-9ae7bc6c95f5)
